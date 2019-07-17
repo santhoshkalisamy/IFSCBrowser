@@ -5,7 +5,7 @@ const IFSCSchema = new mongoose.Schema({
     IFSC: String,
     BRANCH: String,
     ADDRESS: String,
-    CONTACT: Number,
+    CONTACT: String,
     CITY: String,
     DISTRICT: String,
     STATE: String
