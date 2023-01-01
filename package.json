@@ -9,7 +9,7 @@
   "author": "Santhosh K",
   "license": "ISC",
   "dependencies": {
-    "config": "^3.2.0",
+    "config": "^3.3.8",
     "express": "^4.17.1",
     "mongoose": "^5.7.5",
     "express-fileupload": "^1.1.9",
